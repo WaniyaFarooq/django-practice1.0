@@ -32,6 +32,8 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'tasks',
+    'newyear',
     'app1hello',
     'django.contrib.admin',
     'django.contrib.auth',
